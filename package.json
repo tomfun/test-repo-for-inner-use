@@ -33,7 +33,7 @@
   "deprecated": false,
   "description": "A Vue.js project",
   "devDependencies": {},
-  "name": "premium-dns-shopping-cart",
+  "name": "premium-dns-shopping-cart-test9",
   "private": true,
   "scripts": {
     "build": "node build/build.js",
