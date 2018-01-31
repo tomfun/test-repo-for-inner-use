@@ -1,0 +1,44 @@
+{
+  "_from": "git+ssh://git@git.namecheap.net/~alexanderduka/private-widget.git#master",
+  "_id": "premium-dns-shopping-cart@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-ziGzzQQfB/L8Jifyi/ms6I93JGU=",
+  "_location": "/premium-dns-shopping-cart",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "premium-dns-shopping-cart@git+ssh://git@git.namecheap.net/~alexanderduka/private-widget.git#master",
+    "name": "premium-dns-shopping-cart",
+    "escapedName": "premium-dns-shopping-cart",
+    "rawSpec": "git+ssh://git@git.namecheap.net/~alexanderduka/private-widget.git#master",
+    "saveSpec": "git+ssh://git@git.namecheap.net/~alexanderduka/private-widget.git#master",
+    "fetchSpec": "ssh://git@git.namecheap.net/~alexanderduka/private-widget.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@git.namecheap.net/~alexanderduka/private-widget.git#1ef5bb6aebdadacc9ea3bdc9a0a9ba07cc154a38",
+  "_spec": "premium-dns-shopping-cart@git+ssh://git@git.namecheap.net/~alexanderduka/private-widget.git#master",
+  "_where": "/codebase/build",
+  "author": {
+    "name": "Alexander Duka",
+    "email": "alexander.duka@namecheap.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "moment": "^2.20.1",
+    "vue": "^2.5.2"
+  },
+  "deprecated": false,
+  "description": "A Vue.js project",
+  "devDependencies": {},
+  "name": "premium-dns-shopping-cart",
+  "private": true,
+  "scripts": {
+    "build": "node build/build.js",
+    "dev": "webpack-dev-server --inline --progress --host 0.0.0.0 --config build/webpack.dev.conf.js",
+    "start": "npm run dev"
+  },
+  "version": "1.0.0"
+}
